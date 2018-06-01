@@ -13,25 +13,25 @@
 
 静态：
 
-![1527822421827](C:\Users\77204\AppData\Local\Temp\1527822421827.png)
+![1527822421827](imgdir\classimg.png)
 
 动态：
 
 用户类状态图：
 
-![1527822517614](C:\Users\77204\AppData\Local\Temp\1527822517614.png)
+![1527822517614](imgdir\1527822517614.png)
 
 项目类状态图：
 
-![1527822462660](C:\Users\77204\AppData\Local\Temp\1527822462660.png)
+![1527822462660](imgdir\1527822462660.png)
 
 消息类状态图：
 
-![1527822551048](C:\Users\77204\AppData\Local\Temp\1527822551048.png)
+![1527822551048](imgdir\1527822551048.png)
 
 推荐信息类状态图：
 
-![1527822569366](C:\Users\77204\AppData\Local\Temp\1527822569366.png)
+![1527822569366](imgdir\1527822569366.png)
 
 超文本建模：
 
@@ -42,3 +42,14 @@
 动态：
 
 ![这里写图片描述](https://img-blog.csdn.net/20180601005520616?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0FwYXRoZXRpY2Fs/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+适应性建模：
+
+静态：
+
+
+
+动态：
+
+
+
