@@ -1,4 +1,3 @@
-# Web Project Info 
 
 ## 准备
 
@@ -6,6 +5,12 @@
 - Github添加到合作者
 - 学会Git基础使用
 - 服务器IP：123.206.87.13
+
+## 前后端代码仓库地址
+
+- 前端：https://github.com/wxjackie/newProjbarFE
+- 后端：https://github.com/wxjackie/newProjbarBE
+- API文档地址：https://github.com/wxjackie/newProjbarBE/tree/master/apidoc# Web Project Info 
 
 ## 前端
 
