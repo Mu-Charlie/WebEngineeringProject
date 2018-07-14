@@ -12,6 +12,9 @@
 - 后端：https://github.com/wxjackie/newProjbarBE
 - API文档地址：https://github.com/wxjackie/newProjbarBE/tree/master/apidoc# Web Project Info 
 
+##如何访问我们的网站？
+链接：http://123.206.87.13/projbar
+
 ## 前端
 
 > 暂定人员：曹萌、李莹莹、童彤、穆财林
