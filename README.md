@@ -1,23 +1,37 @@
-
-## 准备
-
-- 自己电脑的SSH公钥
-- Github添加到合作者
-- 学会Git基础使用
-- 服务器IP：123.206.87.13
-
 ## 前后端代码仓库地址
 
 - 前端：https://github.com/wxjackie/newProjbarFE
 - 后端：https://github.com/wxjackie/newProjbarBE
-- API文档地址：https://github.com/wxjackie/newProjbarBE/tree/master/apidoc# Web Project Info 
+- API文档地址：https://github.com/wxjackie/newProjbarBE/tree/master/apidoc
+
+## 项慕吧开发指南
+
+
+
+https://github.com/wxjackie/newProjbarFE/blob/master/README.md
+
+
 
 ##如何访问我们的网站？
-链接：http://123.206.87.13/projbar
+
+
+
+[项目吧链接点击这里..](http://123.206.87.13/projbar)
+
+
+
+## 关于Task
+
+- task2：wiki页面中[项目建议书.md](https://github.com/Mu-Charlie/WebEngineeringProject/wiki/%E9%A1%B9%E7%9B%AE%E5%BB%BA%E8%AE%AE%E4%B9%A6)
+- task3：[Web项目需求文档.docx](https://github.com/Mu-Charlie/WebEngineeringProject/wiki/%E9%A1%B9%E7%9B%AE%E5%BB%BA%E8%AE%AE%E4%B9%A6)
+- task4：[Web应用建模.md](https://github.com/Mu-Charlie/WebEngineeringProject/blob/master/Web%E5%BA%94%E7%94%A8%E5%BB%BA%E6%A8%A1.md)
+- task5：[Web应用架构报告.md](https://github.com/Mu-Charlie/WebEngineeringProject/blob/master/Web%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E6%8A%A5%E5%91%8A.md) [Web应用项目架构报告.docx](https://github.com/Mu-Charlie/WebEngineeringProject/blob/master/Web%E5%BA%94%E7%94%A8%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E6%8A%A5%E5%91%8A.docx)
+- task6：[Web应用设计-内容设计.md](https://github.com/Mu-Charlie/WebEngineeringProject/blob/master/Web%E5%BA%94%E7%94%A8%E8%AE%BE%E8%AE%A1-%E5%86%85%E5%AE%B9%E8%AE%BE%E8%AE%A1.md) [交互设计+展示设计.docx](https://github.com/Mu-Charlie/WebEngineeringProject/blob/master/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%2B%E5%B1%95%E7%A4%BA%E8%AE%BE%E8%AE%A1.docx)
+- task8：[Web应用测试.md](https://github.com/Mu-Charlie/WebEngineeringProject/blob/master/Web%E5%BA%94%E7%94%A8%E6%B5%8B%E8%AF%95.md)
 
 ## 前端
 
-> 暂定人员：曹萌、李莹莹、童彤、穆财林
+> 暂定人员：李莹莹、童彤、穆财林、王星锦
 
 主要任务：
 
@@ -31,7 +45,7 @@
 
 ## 后端
 
-> 暂定人员：王星锦、王帅、王旻琛、沙福鑫、王博、陈金宇
+> 暂定人员：王星锦、曹萌、王帅、王旻琛、沙福鑫、王博、陈金宇
 
 主要任务：
 
@@ -57,25 +71,3 @@
 - msg：提示信息
 - data：返回数据
 
-## 主要功能列表
-
-用户个人中心：
-
-- 注册、登录、退出登录
-- 修改个人资料，包括基础信息和技能信息
-- 通知信息（处理一些用户间的组队请求）
-- 查看自己的项目
-
-首页：
-
-- 项目列表
-- 个人列表
-- 项目详情（申请加入）和个人详情（邀请加入），触发邮件提醒
-- 筛选和搜索功能
-- 发布项目功能
-- 推荐匹配功能（暂定）
-
-后台：
-
-- 管理员登录、管理
-- 项目列表、个人列表、对两者的删除、禁用操作
